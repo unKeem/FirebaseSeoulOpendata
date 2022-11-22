@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679993517634",
+    "project_id": "fir-seoulopendata",
+    "storage_bucket": "fir-seoulopendata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679993517634:android:65d9584c0b9b86b328efdb",
+        "android_client_info": {
+          "package_name": "com.example.firebaseseoulopendata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679993517634-6u3fcpnm2bn4k8399k6fecrhb742tdj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSHQhM1YRvXbHXORQEsMf07Ynr624nAA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679993517634-6u3fcpnm2bn4k8399k6fecrhb742tdj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
